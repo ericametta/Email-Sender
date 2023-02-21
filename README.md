@@ -1,2 +1,2 @@
 # Email-Sender
-A python program to send emails.
+A python script to send emails.
